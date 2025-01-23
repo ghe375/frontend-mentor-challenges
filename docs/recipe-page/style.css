@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    background-color: hsl(30, 54%, 90%);
+    margin: 0;
+    padding: 80px;
+    font-size: 16px;
+    font-family: 'Outfit';
+    align-items: center;
+}
+
+.white{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 730px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+.img-smd{
+    display: none;
+}
+
+.img-lgd{
+    display: block;
+}
+
+@media (max-width:769px){
+    body{
+        padding: 0;
+        margin: 0;
+    }
+
+    .white{
+        border-radius: 0;
+        padding-top: 0;
+        padding: 30px;
+        min-width: 280px;
+    }
+
+    img{
+        border-radius: 0;
+    }
+
+    .img-lgd{
+        display: none;
+    }
+
+    .img-smd{
+        display: block;
+    }
+}
+
+.rose-800{
+    color: hsl(332, 51%, 32%);
+}
+
+.stone-150{
+    color: hsl(30, 18%, 87%);
+}
+
+.stone-600{
+    color: #5f574e;
+}
+
+.stone-900{
+    color: hsl(24, 5%, 18%);
+}
+
+.rose-50{
+    background-color: hsl(330, 55%, 96%);
+}
+
+.fc-brown{
+    color: hsl(14, 45%, 36%);
+}
+
+.font-ys{
+    font-family: 'Young Serif', serif;
+}
+
+td{
+    padding: 20px;
+    padding-left: 40px;
+}
+
+ul{
+    list-style-position: outside;
+}
+
+li{
+    padding-left: 10px;
+}
+
+img{
+    width:100%;
+    border-radius: 1rem;
+}
