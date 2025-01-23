@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ghe375/frontend-mentor-challenges/tree/main/recipe-page)
+- Live Site URL: [Add live site URL here](https://ghe375.github.io/frontend-mentor-challenges/recipe-page/index.html)
 
 ## My process
 
@@ -32,7 +32,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Bootstrap5](https://getbootstrap.com/)
 - [GoogleFonts](https://fonts.google.com/)
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -41,8 +40,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Continued development
 
 I'd like to learn CSS animations as well as JS integration for frontend development.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
